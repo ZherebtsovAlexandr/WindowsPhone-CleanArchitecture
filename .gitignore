@@ -1,0 +1,13 @@
+*.bak
+thumbs.db
+
+App_Data/
+packages/
+bin/
+obj/
+Bin/
+_ReSharper.*/
+tmp/
+
+*.user
+*.suo

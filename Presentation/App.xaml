@@ -1,0 +1,8 @@
+﻿<prism:MvvmAppBase
+    x:Class="Presentation.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:prism="using:Microsoft.Practices.Prism.Mvvm"
+    xmlns:local="using:Presentation">
+
+</prism:MvvmAppBase>
